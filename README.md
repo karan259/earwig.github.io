@@ -7,8 +7,8 @@ the exception of content in `_posts/`, `_drafts/`, and non-CSS/JS files in
 
 LICENSE
 -------
-
-Copyright (C) 2011-2014 Ben Kurtovic <ben.kurtovic@gmail.com>
+This website is derived from the website by Ben Kurtovic <ben.kurtovic@gmail.com>
+Copyright (C) 2011-2015 Karan Nayan <karan25991@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
